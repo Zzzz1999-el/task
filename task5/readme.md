@@ -27,7 +27,7 @@
 - [ ] python实现希尔排序算法  
 - [x] python实现归并算法  
 - [x] python实现二分查找算法  
-- [ ] python实现顺序查找和哈希查找算法  
+- [x] python实现顺序查找和哈希查找算法  
 - [ ] python中的哈希表数据结构  
 - [ ] cupy功能探索(https://docs.cupy.dev/en/stable/)  
 - [ ] Python数据挖掘方法案例(基于TPCH数据)  
