@@ -29,7 +29,7 @@
 - [x] python实现二分查找算法  
 - [x] python实现顺序查找和哈希查找算法  
 - [ ] python中的哈希表数据结构  
-- [ ] cupy功能探索(https://docs.cupy.dev/en/stable/)  
+- [x] cupy功能探索(https://docs.cupy.dev/en/stable/)  
 - [ ] Python数据挖掘方法案例(基于TPCH数据)  
 - [x] Python数据可视化探索(动态交互，类比Tableau,PowerBI功能，如Plotly等)  
 - [ ] Python多线程(https://blog.csdn.net/weixin_40481076/article/details/101594705)  
